@@ -1,10 +1,10 @@
 # Site settings
-title: ThinkOnIT
+title: Learn Logic
 email: education.null@gmail.com
 url: https://educationnull.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Learn Ethical Hacking, Windows Forensic, Linux Forensic, Android Pentestion, HardWare Hacking and Many more Under One Roof.!"
+keywords: "Hacking Ethically, Forensic, Windows Hacking, Linux Hacking, Wifi Hacking, Android Hacking, Hardware Hacking, Powershell, Bash Shell"
+skills: "Learn Hacking"
 meta_author: Dubey Avinash
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Learn Logic 2017
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,8 +52,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: GPS Coordinates
+  - line: 19° 2' 51.6084'' N
+  - line: 73° 4' 14.862'' E
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
